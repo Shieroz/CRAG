@@ -1,0 +1,9 @@
+requests 
+transformers 
+datasets 
+cragmm-search-pipeline 
+pandas
+sentence-transformers
+accelerate
+matplotlib
+bitsandbytes
